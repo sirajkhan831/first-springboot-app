@@ -1,4 +1,4 @@
-package com.bridgelabz.hellorestcontroller;
+package com.bridgelabz.hellorestcontroller.controller;
 
 import com.bridgelabz.hellorestcontroller.dto.User;
 import org.springframework.web.bind.annotation.*;

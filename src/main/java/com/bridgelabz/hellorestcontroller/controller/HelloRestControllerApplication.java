@@ -1,4 +1,4 @@
-package com.bridgelabz.hellorestcontroller;
+package com.bridgelabz.hellorestcontroller.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
